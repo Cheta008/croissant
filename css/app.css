@@ -1,5 +1,6 @@
-body {
+ body {
     background: #FCF4DD;
+    text-align: center;
 }
 
 h1,
@@ -8,11 +9,15 @@ h2 {
     color: rgb(90, 72, 49);
 }
 
-a {
+.page-links {
     color: #906640;
     text-decoration: none;
     display: block;
     text-align: center;
+}
+
+.contact-link {
+    color: black;
 }
 
 img {
